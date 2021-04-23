@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mccartytim
+- 👋 Hi, I’m Tim McCarty
 - 👀 I’m interested in becoming a web developeer
 - 🌱 I’m currently taking beginner developer classes through LinkedIn
 - 💞️ I’m looking to collaborate on any projects that will increase my knowledge and gain new, marketable skills
